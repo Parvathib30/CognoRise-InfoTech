@@ -48,7 +48,7 @@ red_wine_quality_analysis.ipynb - Jupyter Notebook containing the analysis.
 
 Tools Used:
 
-Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+Python (Pandas, Matplotlib, Seaborn)
 Jupyter Notebook
 
 
