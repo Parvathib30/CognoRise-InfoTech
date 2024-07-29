@@ -57,7 +57,7 @@ Acknowledgments-
 
 Special thanks to CognoRise Infotech for the opportunity to work on these projects.
 
-Datasets are also provided along with the notebook which are also available in Kaggle.
+Datasets are also provided along with the notebook which are already available in Kaggle.
 
 
 
