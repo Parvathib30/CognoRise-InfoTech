@@ -33,7 +33,7 @@ Key steps included:-
 This project not only enhanced my data analysis skills but also provided valuable insights that could help the company optimize its marketing efforts and improve customer satisfaction.
 
 Files:
-3_Customer_Personality_Analysis.ipynb - Jupyter Notebook containing the analysis.
+3_Customer_Personality_Analysis.ipynb.
 
 2. *Red Wine Quality Data Analysis*📊
 
@@ -69,7 +69,7 @@ Key steps included:-
  Utilized Python libraries such as pandas, matplotlib, and seaborn for data manipulation and visualization.
 
 Files:
-4_Red_Wine_Quality.ipynb - Jupyter Notebook containing the analysis.
+4_Red_Wine_Quality.ipynb.
 
 
 3. *Employee Salaries for Different Job Roles*📊
@@ -112,7 +112,7 @@ Key steps included:-
  Successfully identified key salary trends and patterns by developing and implementing a comprehensive analysis framework using Python, Pandas, Matplotlib, and Seaborn.
 
 Files:
-5_Employee_Salaries_For_Different_Job_Roles.ipynb - Jupyter Notebook containing the analysis.
+5_Employee_Salaries_For_Different_Job_Roles.ipynb.
 
 
 Tools Used:
